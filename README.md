@@ -9,4 +9,5 @@ You are required to complete three parts of the assignment:
   - `evil-extension/manifest.json` does not need to be modified.
 
 - **Persionalized Extension**: Make your Own Extension: Show some creativity.
+- site hosted at: https://lakshyabijarnia.github.io/Practicals-5/
 
