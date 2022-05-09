@@ -1,0 +1,18 @@
+
+{
+  "name": "Youtube Video Stats",
+  "version": "1.0",
+  "description": "Displays amount of views, likes of the video through a dialog box.",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["main.js"]
+    }
+  ],
+  "icons": {
+    "16": "youtube.png",
+    "48": "youtube.png",
+    "128": "youtube.png"
+  },
+  "manifest_version": 2
+}
